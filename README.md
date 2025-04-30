@@ -3,6 +3,8 @@
 ## Description
 This is a simple console-based application to track personal income and expenses. The app allows users to add transactions, categorize them, and display a summary of their financial status.
 
+Project was originally hosted in gitlab and now moved to github for showcasing purposes.
+
 ## Features
 - Add income and expense transactions
 - Categorize each transaction (e.g., Rent, Groceries, etc.)
